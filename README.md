@@ -34,9 +34,10 @@ I specialize in **Active Directory architecture**, **Windows Infrastructure Oper
 ### 📦 Featured Open-Source Projects
 
 | Project | Description | Install |
-| :--- | :--- | :--- |
-| 🛡️ [**ADOpsKit**](https://github.com/Karanth1992/powershell-scripts) | Enterprise PowerShell module for Active Directory health assessments, replication topology diagrams, & GPO reporting. | `Install-Module ADOpsKit` |
+| 🛡️ [**ADOpsKit**](https://github.com/Karanth1992/ADOpsKit) | Enterprise PowerShell module for Active Directory health assessments, replication topology diagrams, & GPO reporting. | `Install-Module ADOpsKit` |
 | ⚙️ [**ADSetupKit**](https://github.com/Karanth1992/ADSetupKit) | Provisioning toolkit for bootstrapping Windows Servers, DC promotion, network setup, and automated post-install tasks. | `Import-Module .\ADSetupKit` |
+| 🏗️ [**ADLabProvisioner**](https://github.com/Karanth1992/ADLabProvisioner) | Declarative Infrastructure-as-Code (IaC) Active Directory provisioning, drift auditing, and state export engine. | `Import-Module .\ADLabProvisioner` |
+| 📜 [**powershell-scripts**](https://github.com/Karanth1992/powershell-scripts) | Standalone PowerShell utilities for AD administration, Entra Connect, and multi-tier AD topology doc generator. | `git clone ...` |
 
 ---
 
